@@ -2,6 +2,7 @@
 op open, add two lines to document and move cursor to beginning of document
 
 PROMPTS
+
 write a program, that uses the google docs API, that:
 
 upon every opening of a specified document, two empty lines are added to the beginning of the document, then the cursor is moved to the beginning of the document, in input mode, ready for text input
